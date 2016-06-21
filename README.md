@@ -1,0 +1,2 @@
+# faac
+FAAC is an AAC audio encoder. It currently supports MPEG-4 LTP, MAIN and LOW COMPLEXITY object types and MAIN and LOW MPEG-2 object types. It also supports multichannel and gapless encoding.
